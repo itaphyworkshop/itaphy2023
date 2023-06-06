@@ -11,3 +11,10 @@
 
 #### 1. [Orthofinder](https://github.com/davidemms/OrthoFinder)
 
+Most simple Orthofinder run:
+
+```
+orthofinder -f ../../Data/
+```
+
+**NB:** Orthofinder has a lot of parameters, take a look at the help!
