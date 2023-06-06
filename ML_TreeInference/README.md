@@ -1,3 +1,10 @@
+### System: Diptera
+
+[Aste](https://en.wikipedia.org/wiki/Anopheles_stephensi)
+[Aaeg](https://it.wikipedia.org/wiki/Aedes_aegypti)
+[Cqui](https://en.wikipedia.org/wiki/Culex_quinquefasciatus)
+[Llon](https://en.wikipedia.org/wiki/Lutzomyia_longipalpis)
+
 ### Prepare working environment
 
 Install required programs using conda, clone the repo and create a meaningfull directory structure.
