@@ -86,6 +86,7 @@ iqtree2 -s Analyses/Aln/Concat.fa -m TESTNEW -p Analyses/Aln/Partitions.nexus -m
 
 Where: 
 * ```-s```: Alignment file
-* ```-m MFP+MERGE```: Best-fit partitioning scheme search considering [FreeRate heterogeneity model]()
+* ```-m MFP+MERGE```: Best-fit partitioning scheme search considering FreeRate heterogeneity model
 
+**Don't esitate to use other ML software (e.g. RAxML)
 
