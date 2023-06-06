@@ -1,4 +1,4 @@
-### Create directory strcutures
+### Create directories strcutures
 
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
  
