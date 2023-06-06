@@ -4,7 +4,7 @@
 
 1. Identify orthologues genes.
 2. Align genes.
-3. Trim genes (optional).
+3. Trim alignments (optional).
 4. Concatenate single-genes alignments.
 5. Model selection.
 6. Tree inference.
