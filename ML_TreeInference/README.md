@@ -1,4 +1,4 @@
-### System: Diptera
+### System: Protein set coming from 4 Diptera species
 
 [Aste](https://en.wikipedia.org/wiki/Anopheles_stephensi).  
 [Aaeg](https://it.wikipedia.org/wiki/Aedes_aegypti).  
