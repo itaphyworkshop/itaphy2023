@@ -4,7 +4,7 @@ Install required programs using conda, clone the repo and create a meaningfull d
 ```
 conda create --name Day_1
 conda activate Day_1
-conda install -c bioconda orthofinder trimal
+conda install -c bioconda orthofinder trimal amas
 ```
 
 ```
@@ -73,6 +73,13 @@ for i in Analyses/Aln/*mafft; do
  trimal -gappyout -in "$i" -out "${i/.mafft/.gappyout.mafft}"; 
 done
 ```
+#### 4. [AMAS]([http://trimal.cgenomics.org/trimal](https://github.com/marekborowiec/AMAS))
+
+```
+AMAS.py concat -i Analyses/Aln/*gappyout.mafft -y nexus -f fasta -d aa -p Analyses/Aln/Partitions.nexus -t Analyses/Aln/Concat.fa
+```
+
+#### 5. [IQTREE (Model Selection and Tree Inference)]([http://trimal.cgenomics.org/trimal](https://github.com/marekborowiec/AMAS))
 
 
 
