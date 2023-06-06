@@ -1,6 +1,6 @@
 ### Prepare working environment
 
-Install required programs using conda
+Install required programs using conda, clone the repo and create a meaningfull directory structure.
 ```
 conda create --name Day_1
 conda activate Day_1
