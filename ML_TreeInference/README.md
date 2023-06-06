@@ -19,3 +19,6 @@ orthofinder -f Data/
 
 **NB:** Orthofinder has a lot of parameters, take a look at the help!
 
+```
+mv Data/OrthoFinder/<RESULT_DIR>/* Analyses/Orthofinder/
+```
