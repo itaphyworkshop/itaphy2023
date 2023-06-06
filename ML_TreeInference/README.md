@@ -1,6 +1,10 @@
-### Create directories structures
+### Prepare working environment
 
+```
+git clone https://github.com/itaphyworkshop
+cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
+```
  
 # Simple Phylogenetic Inference Inference under a ML Framework 
 
