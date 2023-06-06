@@ -1,6 +1,10 @@
 ### Prepare working environment
 
 ```
+conda create --name Day_1
+conda activate Day_1
+conda install -c bioconda orthofinder trimal
+```
 git clone https://github.com/itaphyworkshop
 cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
