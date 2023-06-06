@@ -57,6 +57,6 @@ Move mafft results in the correct directory.
 mv Analyses/Orthofinder/Single_Copy_Orthologue_Sequences/*.mafft Analyses/Aln/
 ```
 
-#### 3. [TRIM](https://mafft.cbrc.jp/alignment/server/)
+#### 3. [TRIMAL](http://trimal.cgenomics.org/trimal)
 
 
