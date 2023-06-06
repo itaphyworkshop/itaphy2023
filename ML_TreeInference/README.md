@@ -23,7 +23,7 @@ orthofinder -f Data/
 
 **NB:** Orthofinder has a lot of parameters, take a look at the help!
 
-Move Orthofinder results in the correct directory.
+##### Move Orthofinder results in the correct directory.
 
 ```
 mv Data/OrthoFinder/<RESULTS_DIR>/* Analyses/Orthofinder/
