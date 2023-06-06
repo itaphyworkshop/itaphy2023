@@ -14,7 +14,8 @@
 Most simple Orthofinder run:
 
 ```
-orthofinder -f ../../Data/
+orthofinder -f Data/
 ```
 
 **NB:** Orthofinder has a lot of parameters, take a look at the help!
+
