@@ -73,7 +73,7 @@ mv Analyses/Orthofinder/Single_Copy_Orthologue_Sequences/*.mafft Analyses/Aln/
 
 #### 3. [TRIMAL](http://trimal.cgenomics.org/trimal)
 
-Trimal in -gappyout mode will remove columns of the alignments based gaps' distribution.
+Trimal in -gappyout mode will remove columns of the alignments based on gaps' distribution.
 
 ```
 for i in Analyses/Aln/*mafft; do 
