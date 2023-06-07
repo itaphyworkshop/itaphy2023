@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tuto
 3. Run the ```.xml``` file in BEAST:
 ```beast```
 
-4. Inspect the .log file with Tracer:
+4. Inspect the ```.log``` file with Tracer:
 ```tracer```
 
 5. Get the tree from the .trees file using TreeAnnotator (set a 10% burnin and select the "median heights" option):
