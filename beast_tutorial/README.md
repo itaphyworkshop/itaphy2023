@@ -8,7 +8,7 @@ export PATH=/usr/local/jdk1.8.0_102/bin:$PATH
 ```
 wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tutorial/beast_practical_wnvl2.fa
 ```
-2. Run BEAUti and import the alignment to setup the analysis:
+2. Run BEAUti and import the alignment (nucleotides) to setup the analysis:
 ```beauti```
 
 3. Run the ```.xml``` file in BEAST:
