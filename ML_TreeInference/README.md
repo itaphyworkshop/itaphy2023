@@ -31,6 +31,8 @@ Install AMAS
 pip install amas --user
 python3 ./.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS
 ```
+Install MAFFT
+
 
 Create directories structure
 ```
