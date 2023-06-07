@@ -1,4 +1,4 @@
-# BEAST tutorial for the ITAPHY2023 workshop
+# BEAST tutorial for the ITA\*PHY2023 workshop
 To make BEAST available, source the phyworkshop.sh file:
 ```
 source /usr/local/etc/phyworkshop.sh
