@@ -5,13 +5,23 @@
 [Cqui](https://en.wikipedia.org/wiki/Culex_quinquefasciatus).  
 [Llon](https://en.wikipedia.org/wiki/Lutzomyia_longipalpis).  
 
-### Prepare working environment
+### Prepare working environment with conda
 
 Install required programs using conda, clone the repo and create a meaningfull directory structure.
+
 ```
 conda create --name Day_1
 conda activate Day_1
 conda install -c bioconda orthofinder trimal amas
+```
+
+### Prepare working environment without conda
+
+Download IQ-TREE (http://www.iqtree.org/)
+
+```
+pip install amas --user
+python3 ./.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS
 ```
 
 ```
