@@ -17,27 +17,34 @@ conda install -c bioconda orthofinder trimal amas
 
 ### Prepare working environment without conda
 
-Download IQ-TREE (http://www.iqtree.org/) and put it in a correct path
-
+Download IQ-TREE (http://www.iqtree.org/), put it in a correct path and create directory structures
 
 ```
 git clone https://github.com/itaphyworkshop
 cd ML_TreeInference/
+mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
 mkdir IQTREE
 mv ../../Downloads/iqtree-2.2.2.6-Linux/bin/iqtree2 IQTREE/
 ```
 
 Install AMAS
+
 ```
 pip install amas --user
-python3 ./.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS
+/home/phyworkshop_039/.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS. PLEASE REMEMBER THAT THE phyworkshop_039 path is different for each of you
 ```
 Install MAFFT
 
-
-Create directories structure
 ```
-mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
+cd Data/mafft-7.505-with-extensions/core/
+make clean
+make
+make install
+```
+
+mafft binaries are under 
+```
+/home/phyworkshop_039/itaphy2023/ML_TreeInference/Data/mafft-7.505-with-extensions/scripts/mafft
 ```
  
 # Simple Phylogenetic Inference Inference under a ML Framework 
