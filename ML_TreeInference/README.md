@@ -35,7 +35,7 @@ Install AMAS
 
 ```
 pip install amas --user
-/home/phyworkshop_039/.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS. PLEASE REMEMBER THAT THE phyworkshop_039 path is different for each of you
+python /home/phyworkshop_039/.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS. PLEASE REMEMBER THAT THE phyworkshop_039 path is different for each of you
 ```
 Install MAFFT
 
