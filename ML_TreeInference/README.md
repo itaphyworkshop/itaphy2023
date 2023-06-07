@@ -32,7 +32,7 @@ pip install amas --user
 python3 ./.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS
 ```
 
-Create directory structure
+Create directories structure
 ```
 cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
