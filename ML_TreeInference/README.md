@@ -22,6 +22,7 @@ Download IQ-TREE (http://www.iqtree.org/) and put it in a correct path
 
 ```
 git clone https://github.com/itaphyworkshop
+cd ML_TreeInference/
 mkdir IQTREE
 mv ../../Downloads/iqtree-2.2.2.6-Linux/bin/iqtree2 IQTREE/
 ```
@@ -36,7 +37,6 @@ Install MAFFT
 
 Create directories structure
 ```
-cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
 ```
  
