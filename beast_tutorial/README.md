@@ -7,6 +7,17 @@ Download the alignment:
 ```
 wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tutorial/beast_practical_wnvl2.fa
 ```
+Run BEAUti and import the alignment to setup the analysis:
+```beauti```
+
+Run the ```.xml``` file in BEAST:
+```beast```
+
+Inspect the .log file with Tracer:
+```tracer```
+
+Get the tree from the .trees file using TreeAnnotator (set a 10& burnin and select the ```median heights``` option):
+```treeannotator```
 
 ## Rate prior
 <img src="./../images/mutation_rate_prior.png">
