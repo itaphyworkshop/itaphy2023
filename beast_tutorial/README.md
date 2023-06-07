@@ -1,5 +1,5 @@
 # BEAST tutorial for the ITA\*PHY 2023 workshop
-To make BEAST available on your computer, source the phyworkshop.sh file:
+To make BEAST available on your computer, source the ```phyworkshop.sh``` file:
 ```
 source /usr/local/etc/phyworkshop.sh
 ```
