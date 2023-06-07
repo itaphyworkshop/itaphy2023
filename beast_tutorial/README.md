@@ -19,6 +19,9 @@ wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tuto
 5. Get the tree from the .trees file using TreeAnnotator (set a 10% burnin and select the "median heights" option):
 ```treeannotator```
 
+6. Visualize the tree:
+```figtree```
+
 ## Rate prior
 <img src="./../images/mutation_rate_prior.png">
 
