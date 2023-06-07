@@ -54,7 +54,8 @@ mafft binaries are under
 Install TRIMAL (http://trimal.cgenomics.org/downloads)
 
 ```
-
+cd trimal/source
+make
 ```
 # Simple Phylogenetic Inference Inference under a ML Framework 
 
