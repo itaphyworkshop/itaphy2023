@@ -16,7 +16,7 @@ wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tuto
 4. Inspect the ```.log``` file with Tracer:
 ```tracer```
 
-5. Get the tree from the .trees file using TreeAnnotator (set a 10% burnin and select the "median heights" option):
+5. Get the tree from the ```.trees``` file using TreeAnnotator (set a 10% burnin and select the "median heights" option):
 ```treeannotator```
 
 6. Visualize the tree:
