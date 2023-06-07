@@ -17,15 +17,23 @@ conda install -c bioconda orthofinder trimal amas
 
 ### Prepare working environment without conda
 
-Download IQ-TREE (http://www.iqtree.org/)
+Download IQ-TREE (http://www.iqtree.org/) and put it in a correct path
 
+
+```
+git clone https://github.com/itaphyworkshop
+mkdir IQTREE
+mv ../../Downloads/iqtree-2.2.2.6-Linux/bin/iqtree2 IQTREE/
+```
+
+Install AMAS
 ```
 pip install amas --user
 python3 ./.local/lib/python3.10/site-packages/amas/__pycache__/AMAS.cpython-310.pyc #path for AMAS
 ```
 
+Create directory structure
 ```
-git clone https://github.com/itaphyworkshop
 cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
 ```
