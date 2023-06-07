@@ -4,5 +4,5 @@ To make BEAST available, source the phyworkshop.sh file:
 source /usr/local/etc/phyworkshop.sh
 ```
 
-## Webpage with more BEAST tutorials
+## Webpage with more BEAST tutorials:
 https://taming-the-beast.org/
