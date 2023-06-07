@@ -22,7 +22,7 @@ Download IQ-TREE (http://www.iqtree.org/), put it in a correct path and create d
 ```
 git clone https://github.com/itaphyworkshop
 cd ML_TreeInference/
-mkdir -p Analyses/{Aln,Orthofinder,Species_Tree,SingleCopy_OG}
+mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
 mkdir IQTREE
 mv ../../Downloads/iqtree-2.2.2.6-Linux/bin/iqtree2 IQTREE/
 ```
@@ -83,6 +83,13 @@ done;
 ```
 
 #### 2. [MAFFT](https://mafft.cbrc.jp/alignment/server/)
+
+If yu did not run orthofinder: 
+
+```
+mkdir -p Analyses/Orthofinder/Single_Copy_Orthologue_Sequences/
+mv Data/OG/OG00000* Analyses/SingleCopy_OG/
+```
 
 Align single-copy orthologues genes
 
