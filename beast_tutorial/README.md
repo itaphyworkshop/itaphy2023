@@ -1,7 +1,8 @@
 # BEAST tutorial for the ITA\*PHY 2023 workshop
-To make BEAST available on your computer, source the ```phyworkshop.sh``` file:
+To make BEAST available on your computer, source the ```phyworkshop.sh``` file and export the ```java``` path:
 ```
 source /usr/local/etc/phyworkshop.sh
+export PATH=/usr/local/jdk1.8.0_102/bin:$PATH
 ```
 1. Download the alignment:
 ```
