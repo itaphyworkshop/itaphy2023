@@ -17,7 +17,7 @@ conda install -c bioconda orthofinder trimal amas
 
 ### Prepare working environment without conda
 
-Download IQ-TREE (http://www.iqtree.org/), put it in a correct path and create directory structures
+Download IQ-TREE (http://www.iqtree.org/) TRIMAL(http://trimal.cgenomics.org/downloads), put them in a correct path and create directory structures
 
 ```
 git clone https://github.com/itaphyworkshop
@@ -25,6 +25,10 @@ cd ML_TreeInference/
 mkdir -p Analyses/{Aln,Orthofinder,Species_Tree}
 mkdir IQTREE
 mv ../../Downloads/iqtree-2.2.2.6-Linux/bin/iqtree2 IQTREE/
+mkdir TRIMAL
+mv ../../Downloads/trimAl/* TRIMAL/
+cd TRIMAL
+make
 ```
 
 Install AMAS
@@ -46,7 +50,12 @@ mafft binaries are under
 ```
 /home/phyworkshop_039/itaphy2023/ML_TreeInference/Data/mafft-7.505-with-extensions/scripts/mafft
 ```
- 
+
+Install TRIMAL (http://trimal.cgenomics.org/downloads)
+
+```
+
+```
 # Simple Phylogenetic Inference Inference under a ML Framework 
 
 ### Easy pipeline:
