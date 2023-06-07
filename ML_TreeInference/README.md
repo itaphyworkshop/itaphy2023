@@ -132,7 +132,7 @@ AMAS.py concat -i Analyses/Aln/*gappyout.mafft -y nexus -f fasta -d aa -p Analys
 
 #### 5&6. [IQTREE (Model Selection and Tree Inference)](http://www.iqtree.org/)
 ```
-iqtree2 -s Analyses/Aln/Concat.fa -m TESTNEW -p Analyses/Aln/Partitions.nexus -m MFP+MERGE -B 1000 --prefix Analyses/Species_Tree/ML_TreeInference
+iqtree2 -s Analyses/Aln/Concat.fa -p Analyses/Aln/Partitions.nexus -m MFP+MERGE -B 1000 --prefix Analyses/Species_Tree/ML_TreeInference
 ```
 
 Where: 
