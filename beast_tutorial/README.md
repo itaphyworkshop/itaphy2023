@@ -3,7 +3,7 @@ To make BEAST available, source the phyworkshop.sh file:
 ```
 source /usr/local/etc/phyworkshop.sh
 ```
-Download the alignment
+Download the alignment:
 ```
 wget https://raw.githubusercontent.com/itaphyworkshop/itaphy2023/main/beast_tutorial/beast_practical_wnvl2.fa
 ```
