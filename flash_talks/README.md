@@ -1,6 +1,6 @@
 # List of participants
 
-Surname Name
+## Surname Name
 
 Azzena	Ilenia
 
