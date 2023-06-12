@@ -1,9 +1,9 @@
 # itaphy2023
 Repository of the ITA*PHY workshop - 2023 edition
 
-<img src="./images/itaphylogo.svg">
+[<img src="./images/itaphylogo.svg">](https://sites.google.com/view/itaphylogeneticsworkshop)
 
-# [Website](https://sites.google.com/view/itaphylogeneticsworkshop) 
+#[Website](https://sites.google.com/view/itaphylogeneticsworkshop) 
 
 ## Day 1 - The ice breaker day
 Here we broke the ice with some basic Bash, and a session of flash talks from the participants.
