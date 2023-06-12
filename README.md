@@ -3,7 +3,8 @@ Repository of the ITA*PHY workshop - 2023 edition
 
 [<img src="./images/itaphylogo.svg">](https://sites.google.com/view/itaphylogeneticsworkshop)
 
-#[Website](https://sites.google.com/view/itaphylogeneticsworkshop) 
+## Introduction
+##### [Opening slides](https://drive.google.com/file/d/1w40u4ufSD28muhuL3kQuiKZXnZaN9bsc/view?usp=sharing)
 
 ## Day 1 - The ice breaker day
 Here we broke the ice with some basic Bash, and a session of flash talks from the participants.
@@ -25,3 +26,4 @@ New approaches can now leverage multicopy gene families, so that phylogenetic in
 
 ## Day 4 - The clock day
 Bayesian approaches to divergence estimation can now analyze genome-scale datasets and hundreds of taxa.
+##### [Closing slides](https://drive.google.com/file/d/15YXyCS9SX75pvDoYArHlVKLIyqjONsaa/view?usp=sharing)
