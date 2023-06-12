@@ -12,7 +12,7 @@ Here we broke the ice with some basic Bash, and a session of flash talks from th
 ##### 1. flash_talks
 
 ## Day 2 - The error day
-Trees are based on alignments and distances. Here we covered how to download and format data before and during the analysis, with particular attention to some possible mistakes that can bring to an inaccurate tree inference.
+Trees are based on alignments and distances. Here we covered how to download and format data before and during phylogenetic analysis, with particular attention to some possible mistakes that can bring to an inaccurate tree inference.
 #### Slides:
 ##### 1. [Systematic errors and replacement models](https://docs.google.com/presentation/d/1bEE0KxEskEpKIC7e_fwgB6Q3R_GdNRnO/edit?usp=sharing&ouid=113307526437925014307&rtpof=true&sd=true)
 ##### 2. [Molecular clock](https://docs.google.com/presentation/d/1uyWt-keqObQWrDMqtPiWkNEL_-8IjFrh/edit?usp=sharing&ouid=113307526437925014307&rtpof=true&sd=true)
