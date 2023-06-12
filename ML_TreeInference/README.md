@@ -60,7 +60,7 @@ Install TRIMAL (http://trimal.cgenomics.org/downloads)
 cd trimal/source
 make
 ```
-# Simple Phylogenetic Inference Inference under a ML Framework 
+# Simple phylogenetic inference under a maximum likelihood (ML) framework 
 
 ### Easy pipeline:
 
