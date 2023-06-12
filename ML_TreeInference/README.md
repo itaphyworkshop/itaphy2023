@@ -1,3 +1,6 @@
+# Dataset preparation in phylogenomics 2
+## Orthology inference and multi-gene datasets
+
 ### System: Protein set coming from 4 Diptera species
 
 [Aste](https://en.wikipedia.org/wiki/Anopheles_stephensi).  
