@@ -7,6 +7,7 @@ Repository of the ITA*PHY workshop - 2023 edition
 ##### [Opening slides](https://drive.google.com/file/d/1w40u4ufSD28muhuL3kQuiKZXnZaN9bsc/view?usp=sharing)
 
 Clone the itaphy2023 repository before starting the tutorials:
+
 ```git clone https://github.com/itaphyworkshop/itaphy2023.git```
 
 ## Day 1 - The ice breaker day
